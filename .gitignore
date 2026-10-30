@@ -1,0 +1,10 @@
+# Local credentials and editor/machine data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+*.rbxl.lock
+*.rbxlx.lock
+.DS_Store
